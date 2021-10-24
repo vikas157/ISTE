@@ -1,0 +1,25 @@
+.jumbotron {
+  background: url("BG.PNG") center no-repeat;
+  /*background-size: cover;
+  		position: relative;
+			}
+		#ISTE::before {
+  	content: '';
+	  position: absolute;
+ 	 left: 0;
+ 	 right: 0;
+ 	 top: 0;
+ 	 bottom: 0;
+ 	 background: rgba(255, 255, 255, 0.92);
+	  z-index: 9;*/
+}
+
+#carouselExampleInterval {
+  background-color: #011b7c;
+  margin: auto;
+}
+.board-size {
+  width: 64px;
+  height: 64px;
+  border-radius: 32px;
+}
